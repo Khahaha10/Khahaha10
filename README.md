@@ -12,7 +12,7 @@
 
 <br>
 <img src="assets/divider.svg" width="100%" alt="">
-<br>
+<br><br>
 
 <img src="assets/h-stack.svg" alt="Tech stack">
 
@@ -43,6 +43,8 @@
   </tr>
 </table>
 
+<br><br><br>
+
 <img src="assets/h-featured.svg" alt="Featured project">
 
 <table>
@@ -62,6 +64,8 @@
     </td>
   </tr>
 </table>
+
+<br><br><br>
 
 <img src="assets/h-builds.svg" alt="More builds">
 
@@ -113,11 +117,15 @@
 
 <sub>Projects without a link are private repositories.</sub>
 
+<br><br><br>
+
 <img src="assets/h-journey.svg" alt="Journey">
 
 <p align="center">
   <img src="assets/journey.svg" width="100%" alt="Checkpoint 1: SMKN 1 Cimahi, Software Engineering, cleared. Checkpoint 2: Odoo Developer at Infinys System Indonesia since June 2025, in progress.">
 </p>
+
+<br><br><br>
 
 <img src="assets/h-stats.svg" alt="GitHub stats">
 
@@ -132,6 +140,8 @@
     <img width="100%" src="https://raw.githubusercontent.com/Khahaha10/Khahaha10/output/snake.svg" alt="Snake eating the contribution graph">
   </picture>
 </p>
+
+<br><br><br>
 
 <img src="assets/h-offclock.svg" alt="Off the clock">
 
@@ -150,6 +160,8 @@
   </tr>
 </table>
 
+<br><br><br>
+
 <img src="assets/h-contact.svg" alt="Let's connect">
 
 <p align="center">Have a website in mind? Let's talk at <a href="mailto:knurfattah@gmail.com">knurfattah@gmail.com</a>.</p>
@@ -165,11 +177,7 @@
   <a href="https://adikara.my.id"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
 </p>
 
-<br>
-
-<br>
-<img src="assets/divider.svg" width="100%" alt="">
-<br>
+<br><br><br>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Thanks for dropping by">
