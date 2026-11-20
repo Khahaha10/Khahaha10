@@ -19,27 +19,27 @@
 <table>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="assets/stack-frontend.svg" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, shadcn/ui, TanStack Query"></td>
+    <td><a href="https://www.typescriptlang.org" title="TypeScript"><img src="assets/icons/ts.svg" alt="TypeScript" title="TypeScript"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="assets/icons/js.svg" alt="JavaScript" title="JavaScript"></a><a href="https://react.dev" title="React"><img src="assets/icons/react.svg" alt="React" title="React"></a><a href="https://nextjs.org" title="Next.js"><img src="assets/icons/nextjs.svg" alt="Next.js" title="Next.js"></a><a href="https://tailwindcss.com" title="Tailwind CSS"><img src="assets/icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"></a><a href="https://ui.shadcn.com" title="shadcn/ui"><img src="assets/icons/shadcnui.svg" alt="shadcn/ui" title="shadcn/ui"></a><a href="https://tanstack.com/query" title="TanStack Query"><img src="assets/icons/reactquery.svg" alt="TanStack Query" title="TanStack Query"></a></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="assets/stack-backend.svg" alt="Node.js, NestJS, PHP, Laravel, FastAPI, Hono, Zod, Strapi"></td>
+    <td><a href="https://nodejs.org" title="Node.js"><img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js"></a><a href="https://nestjs.com" title="NestJS"><img src="assets/icons/nestjs.svg" alt="NestJS" title="NestJS"></a><a href="https://www.php.net" title="PHP"><img src="assets/icons/php.svg" alt="PHP" title="PHP"></a><a href="https://laravel.com" title="Laravel"><img src="assets/icons/laravel.svg" alt="Laravel" title="Laravel"></a><a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI"></a><a href="https://hono.dev" title="Hono"><img src="assets/icons/hono.svg" alt="Hono" title="Hono"></a><a href="https://zod.dev" title="Zod"><img src="assets/icons/zod.svg" alt="Zod" title="Zod"></a><a href="https://strapi.io" title="Strapi"><img src="assets/icons/strapi.svg" alt="Strapi" title="Strapi"></a></td>
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <td><img src="assets/stack-database.svg" alt="PostgreSQL, MySQL, Prisma, Supabase, Drizzle ORM"></td>
+    <td><a href="https://www.postgresql.org" title="PostgreSQL"><img src="assets/icons/postgres.svg" alt="PostgreSQL" title="PostgreSQL"></a><a href="https://www.mysql.com" title="MySQL"><img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL"></a><a href="https://www.prisma.io" title="Prisma"><img src="assets/icons/prisma.svg" alt="Prisma" title="Prisma"></a><a href="https://supabase.com" title="Supabase"><img src="assets/icons/supabase.svg" alt="Supabase" title="Supabase"></a><a href="https://orm.drizzle.team" title="Drizzle ORM"><img src="assets/icons/drizzle.svg" alt="Drizzle ORM" title="Drizzle ORM"></a></td>
   </tr>
   <tr>
     <td><b>ERP and mobile</b></td>
-    <td><img src="assets/stack-erp.svg" alt="Python, Flutter, Dart, Kotlin, Odoo"></td>
+    <td><a href="https://www.python.org" title="Python"><img src="assets/icons/py.svg" alt="Python" title="Python"></a><a href="https://flutter.dev" title="Flutter"><img src="assets/icons/flutter.svg" alt="Flutter" title="Flutter"></a><a href="https://dart.dev" title="Dart"><img src="assets/icons/dart.svg" alt="Dart" title="Dart"></a><a href="https://kotlinlang.org" title="Kotlin"><img src="assets/icons/kotlin.svg" alt="Kotlin" title="Kotlin"></a><a href="https://www.odoo.com" title="Odoo"><img src="assets/icons/odoo.svg" alt="Odoo" title="Odoo"></a></td>
   </tr>
   <tr>
-    <td><b>DevOps and tooling</b></td>
-    <td><img src="assets/stack-devops.svg" alt="Docker, Cloudflare, GitHub Actions, Vercel, Netlify, pnpm, Vitest, Git, Turborepo, n8n, Playwright"></td>
+    <td><b>DevOps</b></td>
+    <td><a href="https://www.docker.com" title="Docker"><img src="assets/icons/docker.svg" alt="Docker" title="Docker"></a><a href="https://www.cloudflare.com" title="Cloudflare"><img src="assets/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare"></a><a href="https://github.com/features/actions" title="GitHub Actions"><img src="assets/icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions"></a><a href="https://vercel.com" title="Vercel"><img src="assets/icons/vercel.svg" alt="Vercel" title="Vercel"></a><a href="https://www.netlify.com" title="Netlify"><img src="assets/icons/netlify.svg" alt="Netlify" title="Netlify"></a><a href="https://pnpm.io" title="pnpm"><img src="assets/icons/pnpm.svg" alt="pnpm" title="pnpm"></a><a href="https://vitest.dev" title="Vitest"><img src="assets/icons/vitest.svg" alt="Vitest" title="Vitest"></a><a href="https://git-scm.com" title="Git"><img src="assets/icons/git.svg" alt="Git" title="Git"></a><a href="https://turbo.build" title="Turborepo"><img src="assets/icons/turborepo.svg" alt="Turborepo" title="Turborepo"></a><a href="https://n8n.io" title="n8n"><img src="assets/icons/n8n.svg" alt="n8n" title="n8n"></a><a href="https://playwright.dev" title="Playwright"><img src="assets/icons/playwright.svg" alt="Playwright" title="Playwright"></a></td>
   </tr>
   <tr>
     <td><b>Learning</b></td>
-    <td><img src="assets/stack-learning.svg" alt="Go, Rust, Unity, Blender"></td>
+    <td><a href="https://go.dev" title="Go"><img src="assets/icons/go.svg" alt="Go" title="Go"></a><a href="https://www.rust-lang.org" title="Rust"><img src="assets/icons/rust.svg" alt="Rust" title="Rust"></a><a href="https://unity.com" title="Unity"><img src="assets/icons/unity.svg" alt="Unity" title="Unity"></a><a href="https://www.blender.org" title="Blender"><img src="assets/icons/blender.svg" alt="Blender" title="Blender"></a></td>
   </tr>
 </table>
 
