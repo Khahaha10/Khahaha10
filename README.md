@@ -2,14 +2,17 @@
   <img src="assets/banner.svg" width="100%" alt="Khalif Adikara, full-stack developer">
 </p>
 
+<br>
+
 <img src="assets/h-about.svg" alt="About me">
 
 <p align="center">
   <img src="assets/about.svg" width="100%" alt="Full-stack web developer, currently living in Jakarta. Builds web apps end to end, from UI to deploy. Software Engineering, SMKN 1 Cimahi. 2+ years of development. Learning Go, Rust, Unity and Blender. Open for freelance website projects. Odoo Developer at Infinys System Indonesia.">
 </p>
 
+<br>
 <img src="assets/divider.svg" width="100%" alt="">
-
+<br>
 
 <img src="assets/h-stack.svg" alt="Tech stack">
 
@@ -40,59 +43,81 @@
   </tr>
 </table>
 
-
 <img src="assets/h-featured.svg" alt="Featured project">
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <a href="https://linkium.bio"><img src="assets/linkium.png" alt="Linkium landing page"></a>
+    <td width="50%" valign="middle">
+      <a href="https://linkium.bio"><img src="assets/linkium.png" width="100%" alt="Linkium landing page"></a>
     </td>
-    <td width="45%" valign="top">
-
+    <td width="50%" valign="middle">
+      <h3><a href="https://linkium.bio">Linkium</a></h3>
+      <p>A link-in-bio platform for developers and designers. One URL becomes a portfolio with links, projects, resume and live analytics.</p>
+      <ul>
+        <li><b>Links:</b> drag-and-drop ordering and a project showcase.</li>
+        <li><b>Analytics:</b> visitors, clicks, CTR, referrers and devices.</li>
+        <li><b>Themes:</b> live theme editor and QR code sharing.</li>
+      </ul>
+      <sub>Next.js · Hono · Cloudflare Workers · Drizzle · PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="assets/h-builds.svg" alt="More builds">
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Khahaha10/coinbook"><img src="assets/coinbook.png" alt="Coinbook dashboard"></a>
+      <a href="https://github.com/Khahaha10/coinbook"><img src="assets/coinbook.png" width="100%" alt="Coinbook dashboard"></a>
       <h3><a href="https://github.com/Khahaha10/coinbook">Coinbook</a></h3>
       <img src="https://img.shields.io/badge/In_progress-FFC94A?style=flat-square" alt="In progress, not live yet">
-      <br><br>
-      Personal finance app with wallets, bill reminders and split bills you can share with friends.
-      <br><br>
+      <p>Personal finance app with wallets, bill reminders and split bills you can share with friends.</p>
       <sub>Next.js · NestJS · Prisma · Supabase</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://adikara.my.id"><img src="assets/adikara.png" alt="adikara.my.id portfolio"></a>
+      <a href="https://adikara.my.id"><img src="assets/adikara.png" width="100%" alt="adikara.my.id portfolio"></a>
       <h3><a href="https://adikara.my.id">adikara.my.id</a></h3>
       <img src="https://img.shields.io/badge/Live-5BB8F5?style=flat-square" alt="Live">
-      <br><br>
-      My portfolio site, a static Next.js build with Strapi as the CMS and a pixel-perfect design.
-      <br><br>
+      <p>My portfolio site, a static Next.js build with Strapi as the CMS and a pixel-perfect design.</p>
       <sub>Next.js · Tailwind CSS · Strapi</sub>
     </td>
   </tr>
 </table>
 
-| Project                                                                                          | Description                                                                              | Stack                                             |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| HR mobile app for Odoo                                                                           | Cross-platform (Android and iOS) HR app on top of Odoo 19                                | Flutter · Riverpod · Dio · GoRouter            |
-| Polls                                                                                            | Poll builder with drag-and-drop questions, QR sharing and result charts                  | Next.js · Supabase · TanStack Query · Recharts |
-| Landing page kit                                                                                 | Monorepo of demo sites (coffee shop, car service, handmade store) on a shared UI package | Next.js · Tailwind CSS · Turborepo              |
-| [Pengaduan Masyarakat](https://github.com/Khahaha10/Pengaduan-Masyarakat)                         | Public complaint reporting system with PDF reports                                       | Laravel · MySQL · Sanctum                       |
-| [E2E Pengaduan Masyarakat](https://github.com/Khahaha10/E2E-Testing-Project-Pengaduan-Masyarakat) | End-to-end test suite running in GitHub Actions                                          | Playwright · Faker                               |
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><b>HR mobile app for Odoo</b><br><sub>Flutter · Riverpod · Dio · GoRouter</sub></td>
+    <td>Cross-platform (Android and iOS) HR app on top of Odoo 19.</td>
+  </tr>
+  <tr>
+    <td><b>Polls</b><br><sub>Next.js · Supabase · TanStack Query</sub></td>
+    <td>Poll builder with drag-and-drop questions, QR sharing and result charts.</td>
+  </tr>
+  <tr>
+    <td><b>Landing page kit</b><br><sub>Next.js · Tailwind CSS · Turborepo</sub></td>
+    <td>Monorepo of demo sites (coffee shop, car service, handmade store) on a shared UI package.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Khahaha10/Pengaduan-Masyarakat">Pengaduan Masyarakat</a></b><br><sub>Laravel · MySQL · Sanctum</sub></td>
+    <td>Public complaint reporting system with PDF reports.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Khahaha10/E2E-Testing-Project-Pengaduan-Masyarakat">E2E Pengaduan Masyarakat</a></b><br><sub>Playwright · Faker</sub></td>
+    <td>End-to-end test suite running in GitHub Actions.</td>
+  </tr>
+</table>
 
 <sub>Projects without a link are private repositories.</sub>
-
 
 <img src="assets/h-journey.svg" alt="Journey">
 
 <p align="center">
   <img src="assets/journey.svg" width="100%" alt="Checkpoint 1: SMKN 1 Cimahi, Software Engineering, cleared. Checkpoint 2: Odoo Developer at Infinys System Indonesia since June 2025, in progress.">
 </p>
-
 
 <img src="assets/h-stats.svg" alt="GitHub stats">
 
@@ -107,7 +132,6 @@
     <img width="100%" src="https://raw.githubusercontent.com/Khahaha10/Khahaha10/output/snake.svg" alt="Snake eating the contribution graph">
   </picture>
 </p>
-
 
 <img src="assets/h-offclock.svg" alt="Off the clock">
 
@@ -126,7 +150,6 @@
   </tr>
 </table>
 
-
 <img src="assets/h-contact.svg" alt="Let's connect">
 
 <p align="center">Have a website in mind? Let's talk at <a href="mailto:knurfattah@gmail.com">knurfattah@gmail.com</a>.</p>
@@ -142,8 +165,11 @@
   <a href="https://adikara.my.id"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
 </p>
 
+<br>
 
+<br>
 <img src="assets/divider.svg" width="100%" alt="">
+<br>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Thanks for dropping by">
