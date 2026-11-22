@@ -65,6 +65,27 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Khahaha10/Hoyo-AIO"><img src="assets/hoyo-genshin.png" width="31%" alt="HoYo AIO Genshin Impact dashboard"> <img src="assets/hoyo-starrail.png" width="31%" alt="HoYo AIO Honkai: Star Rail dashboard in dark mode"> <img src="assets/hoyo-zzz.png" width="31%" alt="HoYo AIO Zenless Zone Zero dashboard"></a>
+    </td>
+    <td width="50%" valign="middle">
+      <h3><a href="https://github.com/Khahaha10/Hoyo-AIO">HoYo AIO</a></h3>
+      <img src="https://img.shields.io/badge/Android-v1.0.0-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android v1.0.0">
+      <p>Unofficial companion app for Genshin Impact, Honkai: Star Rail, Zenless Zone Zero and Honkai Impact 3rd. Stamina, daily check-in, codes, pity tracker and home-screen widgets in one place.</p>
+      <ul>
+        <li><b>Dashboard:</b> stamina with time to full, dailies and expeditions, works offline.</li>
+        <li><b>Check-in:</b> auto check-in for all four games and notifications before stamina overflows.</li>
+        <li><b>Privacy:</b> no backend, data stays on the device, cookie encrypted twice.</li>
+      </ul>
+      <sub>Flutter · Dart · Riverpod · Drift (SQLite) · Kotlin · Swift</sub>
+      <br><br>
+      <a href="https://github.com/Khahaha10/Hoyo-AIO/releases/latest">Download the APK</a>
+    </td>
+  </tr>
+</table>
+
 <br><br><br>
 
 <img src="assets/h-builds.svg" alt="More builds">
